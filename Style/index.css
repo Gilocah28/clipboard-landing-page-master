@@ -34,7 +34,6 @@ header {
   justify-content: center;
   background: url(/images/bg-header-mobile.png) no-repeat;
   background-size: 100%;
-  background-position: top right;
 }
 
 .headerCon {
