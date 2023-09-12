@@ -39,7 +39,7 @@ header {
 
 .headerCon {
   text-align: center;
-  padding: 0 1.5rem;
+  padding: 0 2rem;
   margin-top: 9.5rem;
 }
 
@@ -71,7 +71,7 @@ header {
 .green {
   display: block;
   margin-inline: auto;
-  width: 100%;
+  width:80%;
   height: 4rem;
   border: none;
   background: var(--clr--200--);
@@ -90,7 +90,7 @@ header {
 
 .blue {
   margin-inline: auto;
-  width: 100%;
+  width: 80%;
   height: 4rem;
   border: none;
   background: var(--clr--300--);
